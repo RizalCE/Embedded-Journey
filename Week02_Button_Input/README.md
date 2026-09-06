@@ -14,10 +14,10 @@ Praktikum ini mengeksplorasi dua logika pemrograman masukan:
 | Komponen Hardware | Pin STM32F407 | Mode GPIO | Konfigurasi Logika |
 | :--- | :---: | :---: | :--- |
 | **User Push Button** | `PA0` | `GPIO_Input` | Active-High (`GPIO_PIN_SET` saat ditekan) |
-| **LED Green (LD4)** | `PD12` | `GPIO_Output` | Push-Pull[cite: 1, 2] |
-| **LED Orange (LD3)** | `PD13` | `GPIO_Output` | Push-Pull[cite: 1, 2] |
-| **LED Red (LD5)** | `PD14` | `GPIO_Output` | Push-Pull[cite: 1, 2] |
-| **LED Blue (LD6)** | `PD15` | `GPIO_Output` | Push-Pull[cite: 1, 2] |
+| **LED Green (LD4)** | `PD12` | `GPIO_Output` | Push-Pull |
+| **LED Orange (LD3)** | `PD13` | `GPIO_Output` | Push-Pull |
+| **LED Red (LD5)** | `PD14` | `GPIO_Output` | Push-Pull |
+| **LED Blue (LD6)** | `PD15` | `GPIO_Output` | Push-Pull |
 
 ---
 
