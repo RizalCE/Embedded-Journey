@@ -1,4 +1,4 @@
-# 🚀 Embedded Systems Journey: STM32F4 Discovery
+# 🚀 Embedded Systems Journey: STM32F407 Discovery
 
 Repositori ini berisi dokumentasi dan kode sumber praktikum **Sistem Tertanam (Embedded Systems)** menggunakan board mikrokontroler **STM32F4 Discovery (STM32F407VGT6)**. Pengembangan dilakukan menggunakan **STM32CubeMX** untuk konfigurasi periferal dan **STM32CubeIDE** untuk pemrograman C berbasis **HAL (Hardware Abstraction Layer)**.
 
